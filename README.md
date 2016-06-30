@@ -12,7 +12,7 @@ This is a quick and dirty script to quickly run keyword and sentiment analysis o
 * Step 5: Run the script on the command line with `php -f keywords.php` to output the results of the keyword analysis
 
 The result of the keyword analysis will produce the top 10 keywords, the number of times they occurred and the
-relevance (1 being the highest).
+relevance (1 being the highest). Note that this analysis was performed on a very small number of tweets for an example.
 
 ```
 Keyword | Count | Relevance
