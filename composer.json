@@ -1,0 +1,14 @@
+{
+  "description": "Triathlon API Twitter Keyword and Sentiment Analysis with MonkeyLearn.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Gareth Davies",
+      "email": "gareth.davies@triathlon.org"
+    }
+  ],
+  "require": {
+    "mashape/unirest-php": "2.*",
+    "monkeylearn/monkeylearn-php": "~0.1"
+  }
+}
