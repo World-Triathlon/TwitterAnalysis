@@ -5,7 +5,7 @@ This is a quick and dirty script to quickly run keyword and sentiment analysis o
 
 * Step 1: Get a Triathlon API key from the [Triathlon API Management Portal](https://apps.api.triathlon.org/register)
 * Step 2: Get a Monkey Learn API key from [here](https://app.monkeylearn.com/accounts/register/)
-* Step 3: Clone this and replace config.php with your API keys obtained in steps 1 & 2 and the event hashtag you wish
+* Step 3: Clone this repo and replace config.php with your API keys obtained in steps 1 & 2 and the event hashtag you wish
  to analyse (all events may not be available)
 * Step 4a: Download [composer](https://getcomposer.org/download/) if not on your local system
 * Step 4b: Run `composer install`
